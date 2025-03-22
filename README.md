@@ -1,3 +1,3 @@
 # DataScience-Notes-Code
-this are my noteas
+this are my noteas <br>
 author -samyak
